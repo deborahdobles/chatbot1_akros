@@ -1,0 +1,18 @@
+# Ignore JSON files (data files)
+*.json
+
+# Ignore environment files (sensitive credentials)
+.env
+
+# Ignore __pycache__ and compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore VS Code and system files
+.vscode/
+.DS_Store
+
+# Ignore logs
+logs/
+*.log
+
